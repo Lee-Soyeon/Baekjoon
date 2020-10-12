@@ -6,3 +6,7 @@
 
 [11721번 - 열 개씩 끊어 출력하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/11721.md)
 
+## 수학
+
+[1978 - 소수 찾기](https://www.acmicpc.net/problem/1978)
+

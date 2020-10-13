@@ -13,3 +13,7 @@
 * [9613번 - GCD 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/9613.md)
 * [1978 - 소수 찾기](https://github.com/Lee-Soyeon/Backjoon/blob/main/1978.md)
 * [6588번 - 골드바흐의 추측](https://github.com/Lee-Soyeon/Backjoon/blob/main/6588.md)
+
+## 위상 정렬
+
+* [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/2252.md)

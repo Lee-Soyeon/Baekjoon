@@ -14,6 +14,10 @@
 * [1978 - 소수 찾기](https://github.com/Lee-Soyeon/Backjoon/blob/main/1978.md)
 * [6588번 - 골드바흐의 추측](https://github.com/Lee-Soyeon/Backjoon/blob/main/6588.md)
 
+## 동적 계획법
+
+* [2309번 - 일곱 난쟁이](https://github.com/Lee-Soyeon/Backjoon/blob/main/2309.md)
+
 ## 위상 정렬
 
 * [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/2252.md)

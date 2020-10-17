@@ -28,7 +28,7 @@
 ## 그래프
 
 * [13023번 - ABCDE](https://github.com/Lee-Soyeon/Backjoon/blob/main/13023.md)
-* [1260번 - ABCDE](https://github.com/Lee-Soyeon/Backjoon/blob/main/1260.md)
+* [1260번 - DFS와 BFS](https://github.com/Lee-Soyeon/Backjoon/blob/main/1260.md)
 
 ## 동적 계획법
 

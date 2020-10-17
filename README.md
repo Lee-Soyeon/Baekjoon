@@ -22,6 +22,8 @@
 * [10972번 - 다음 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10972.md)
 * [10973번 - 이전 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10973.md)
 * [10974번 - 모든 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10974.md)
+* [10819번 - 차이를 최대로](https://github.com/Lee-Soyeon/Backjoon/blob/main/10819.md)
+* [10971번 - 외판원 순회 2](https://github.com/Lee-Soyeon/Backjoon/blob/main/10971.md)
 
 ## 그래프
 

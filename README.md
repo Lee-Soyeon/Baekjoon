@@ -20,7 +20,7 @@
 * [1476번 - 날짜 계산](https://github.com/Lee-Soyeon/Backjoon/blob/main/1476.md)
 * [9095번 - 1, 2, 3 더하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/9095.md)
 * [10972번 - 다음 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10972.md)
-
+* [10973번 - 이전 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10973.md)
 * [10974번 - 모든 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10974.md)
 
 ## 그래프

@@ -24,6 +24,7 @@
 * [10974번 - 모든 순열](https://github.com/Lee-Soyeon/Backjoon/blob/main/10974.md)
 * [10819번 - 차이를 최대로](https://github.com/Lee-Soyeon/Backjoon/blob/main/10819.md)
 * [10971번 - 외판원 순회 2](https://github.com/Lee-Soyeon/Backjoon/blob/main/10971.md)
+* [6603번 - 로또](https://github.com/Lee-Soyeon/Backjoon/blob/main/6603.md)
 
 ## 그래프
 

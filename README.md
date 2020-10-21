@@ -27,6 +27,8 @@
 * [6603번 - 로또](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/6603.md)
 * [1759번 - 암호 만들기](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/1759.md)
 * [1182번 - 부분수열의 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/1182.md)
+* [15649번 - N과 M (1)](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/15649.md)
+* [15650번 - N과 M (2)](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/15650.md)
 
 ## 그래프
 

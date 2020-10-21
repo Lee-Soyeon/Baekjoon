@@ -25,6 +25,8 @@
 * [10819번 - 차이를 최대로](https://github.com/Lee-Soyeon/Backjoon/blob/main/10819.md)
 * [10971번 - 외판원 순회 2](https://github.com/Lee-Soyeon/Backjoon/blob/main/10971.md)
 * [6603번 - 로또](https://github.com/Lee-Soyeon/Backjoon/blob/main/6603.md)
+* [1759번 - 암호 만들기](https://github.com/Lee-Soyeon/Backjoon/blob/main/1759.md)
+* [1182번 - 부분수열의 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/1182.md)
 
 ## 그래프
 

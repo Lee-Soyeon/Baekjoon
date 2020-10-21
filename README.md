@@ -2,7 +2,7 @@
 
 ## 구현
 
-* [10818번 - 최소, ](https://github.com/Lee-Soyeon/Backjoon/blob/main/구현/10818.md)
+* [10818번 - 최소, 최대](https://github.com/Lee-Soyeon/Backjoon/blob/main/구현/10818.md)
 * [11721번 - 열 개씩 끊어 출력하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/구현/11721.md)
 
 ## 수학
@@ -39,4 +39,4 @@
 
 ## 위상 정렬
 
-* [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/위상 정렬/2252.md)
+* [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/위상정렬/2252.md)

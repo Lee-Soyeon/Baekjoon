@@ -7,7 +7,6 @@
 
 ## 수학
 
-* [10430번 - 나머지](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/10430.md)
 * [2609번 - 최대공약수와 최대공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/2609.md)
 * [1934번 - 최소공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1934.md)
 * [9613번 - GCD 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/9613.md)

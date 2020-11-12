@@ -34,6 +34,7 @@
 
 * [13023번 - ABCDE](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/13023.md)
 * [1260번 - DFS와 BFS](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/1260.md)
+* [11724번 - 연결 요소의 개수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/11724.md)
 * [2178번 - 미로 탐색](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/2178.md)
 
 ## 동적 계획법

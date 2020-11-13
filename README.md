@@ -5,6 +5,7 @@
 * [10818번 - 최소, 최대](https://github.com/Lee-Soyeon/Backjoon/blob/main/구현/10818.md)
 * [11721번 - 열 개씩 끊어 출력하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/구현/11721.md)
 * [1924번 - 2007년](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/1924.md)
+* [9291번 - 스도쿠 채점](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/9291.md)
 
 ## 수학
 

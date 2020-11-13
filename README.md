@@ -39,6 +39,8 @@
 
 ## 동적 계획법
 
+* [11726번 - 2xn 타일링](https://github.com/Lee-Soyeon/Baekjoon/blob/main/동적계획법/11726.md)
+* [11727번 = 2xn 타일링 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11727.md)
 
 
 ## 위상 정렬

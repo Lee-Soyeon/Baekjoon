@@ -41,8 +41,8 @@
 
 * [1463번 - 1로 만들기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1463.md)
 * [11726번 - 2xn 타일링](https://github.com/Lee-Soyeon/Baekjoon/blob/main/동적계획법/11726.md)
-* [11727번 = 2xn 타일링 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11727.md)
-
+* [11727번 - 2xn 타일링 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11727.md)
+* [15988번 - 1, 2, 3 더하기 3](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15988.md)
 
 ## 위상 정렬
 

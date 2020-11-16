@@ -48,7 +48,7 @@
 * [16194번 - 카드 구매하기 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/16194.md)
 * [15990번 - 1, 2, 3번 더하기 5](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15990.md)
 * [10844번 - 쉬운 계단 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/10844.md)
-* [11057번 - 오르막 수]()
+* [11057번 - 오르막 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11057.md)
 * [2193번 - 이친수]()
 * [9465번 - 스티커]()
 

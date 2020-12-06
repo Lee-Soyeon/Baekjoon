@@ -54,6 +54,7 @@
 * [11057번 - 오르막 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11057.md)
 * [2193번 - 이친수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/2193.md)
 * [9465번 - 스티커](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/9456.md)
+* [1010번 - 다리 ](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1010.md)
 
 ## 위상 정렬
 

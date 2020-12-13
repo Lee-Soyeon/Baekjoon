@@ -17,6 +17,7 @@
 * [6588번 - 골드바흐의 추측](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/6588.md)
 * [1037번 - 약수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1037.md)
 * [1064번 - 평행사변형](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1064.md)
+* [1094번 - 막대기](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1094.md)
 
 ## 브루트포스
 

@@ -36,9 +36,13 @@
 * [15650번 - N과 M (2)](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/15650.md)
 * [1145번 - 적어도 대부분의 배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/1145.md)
 
+## 정렬
+
+* [1181번 - 단어 정렬](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1181.md)
+
 ## 자료구조
 
-* [1158번 - 요세푸스 문제](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/1158.md)
+* [1158번 - 요세푸스 문제](https://github.com/Lee-Soyeon/Backjoon/blob/main/자료구조/1158.md)
 
 ## 그래프
 

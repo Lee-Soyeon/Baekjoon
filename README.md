@@ -39,6 +39,7 @@
 ## 정렬
 
 * [1181번 - 단어 정렬](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1181.md)
+* [1246번 - 온라인 판매](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1246.md)
 
 ## 자료구조
 

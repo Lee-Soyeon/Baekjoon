@@ -8,16 +8,34 @@
 * [9291번 - 스도쿠 채점](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/9291.md)
 * [1063번 - 킹](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/1063.md)
 
-## 수학
+## 그래프
 
-* [2609번 - 최대공약수와 최대공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/2609.md)
-* [1934번 - 최소공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1934.md)
-* [9613번 - GCD 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/9613.md)
-* [1978 - 소수 찾기](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1978.md)
-* [6588번 - 골드바흐의 추측](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/6588.md)
-* [1037번 - 약수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1037.md)
-* [1064번 - 평행사변형](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1064.md)
-* [1094번 - 막대기](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1094.md)
+* [13023번 - ABCDE](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/13023.md)
+* [1260번 - DFS와 BFS](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/1260.md)
+* [11724번 - 연결 요소의 개수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/11724.md)
+* [2667번 - 단지 번호 붙이기](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/2667.md)
+* [4963번 - 섬의 개수](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/4963.md)
+* [2178번 - 미로 탐색](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/2178.md)
+* [7576번 - 토마토](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/7576.md)
+
+## 다익스트라
+
+* [1916번 - 최소비용 구하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/다익스트라/1916.md)
+
+## 동적 계획법
+
+* [1463번 - 1로 만들기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1463.md)
+* [11726번 - 2xn 타일링](https://github.com/Lee-Soyeon/Baekjoon/blob/main/동적계획법/11726.md)
+* [11727번 - 2xn 타일링 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11727.md)
+* [15988번 - 1, 2, 3 더하기 3](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15988.md)
+* [11052번 - 카드 구매하기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11052.md)
+* [16194번 - 카드 구매하기 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/16194.md)
+* [15990번 - 1, 2, 3번 더하기 5](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15990.md)
+* [10844번 - 쉬운 계단 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/10844.md)
+* [11057번 - 오르막 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11057.md)
+* [2193번 - 이친수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/2193.md)
+* [9465번 - 스티커](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/9456.md)
+* [1010번 - 다리 놓기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1010.md)
 
 ## 브루트포스
 
@@ -36,40 +54,26 @@
 * [15650번 - N과 M (2)](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/15650.md)
 * [1145번 - 적어도 대부분의 배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/브루트포스/1145.md)
 
-## 정렬
+## 수학
 
-* [1181번 - 단어 정렬](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1181.md)
-* [1246번 - 온라인 판매](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1246.md)
+* [2609번 - 최대공약수와 최대공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/2609.md)
+* [1934번 - 최소공배수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1934.md)
+* [9613번 - GCD 합](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/9613.md)
+* [1978 - 소수 찾기](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1978.md)
+* [6588번 - 골드바흐의 추측](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/6588.md)
+* [1037번 - 약수](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1037.md)
+* [1064번 - 평행사변형](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1064.md)
+* [1094번 - 막대기](https://github.com/Lee-Soyeon/Backjoon/blob/main/수학/1094.md)
+
+## 위상 정렬
+
+* [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/위상정렬/2252.md)
 
 ## 자료구조
 
 * [1158번 - 요세푸스 문제](https://github.com/Lee-Soyeon/Backjoon/blob/main/자료구조/1158.md)
 
-## 그래프
+## 정렬
 
-* [13023번 - ABCDE](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/13023.md)
-* [1260번 - DFS와 BFS](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/1260.md)
-* [11724번 - 연결 요소의 개수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84/11724.md)
-* [2667번 - 단지 번호 붙이기](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/2667.md)
-* [4963번 - 섬의 개수](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/4963.md)
-* [2178번 - 미로 탐색](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/2178.md)
-* [7576번 - 토마토](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/7576.md)
-
-## 동적 계획법
-
-* [1463번 - 1로 만들기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1463.md)
-* [11726번 - 2xn 타일링](https://github.com/Lee-Soyeon/Baekjoon/blob/main/동적계획법/11726.md)
-* [11727번 - 2xn 타일링 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11727.md)
-* [15988번 - 1, 2, 3 더하기 3](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15988.md)
-* [11052번 - 카드 구매하기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11052.md)
-* [16194번 - 카드 구매하기 2](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/16194.md)
-* [15990번 - 1, 2, 3번 더하기 5](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/15990.md)
-* [10844번 - 쉬운 계단 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/10844.md)
-* [11057번 - 오르막 수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/11057.md)
-* [2193번 - 이친수](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/2193.md)
-* [9465번 - 스티커](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/9456.md)
-* [1010번 - 다리 놓기](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/1010.md)
-
-## 위상 정렬
-
-* [2252번 - 줄 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/위상정렬/2252.md)
+* [1181번 - 단어 정렬](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1181.md)
+* [1246번 - 온라인 판매](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1246.md)

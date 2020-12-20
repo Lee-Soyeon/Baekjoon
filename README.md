@@ -22,6 +22,7 @@
 
 * [1916번 - 최소비용 구하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/다익스트라/1916.md)
 * [13424번 - 비밀 모임](https://github.com/Lee-Soyeon/Backjoon/blob/main/다익스트라/13424.md)
+* [1238번 - 파티](https://github.com/Lee-Soyeon/Backjoon/blob/main/다익스트라/1238.md)
 
 ## 동적 계획법
 

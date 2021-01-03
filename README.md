@@ -7,6 +7,7 @@
 * [1924번 - 2007년](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/1924.md)
 * [9291번 - 스도쿠 채점](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/9291.md)
 * [1063번 - 킹](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/1063.md)
+* [1316번 - 그룹 단어 체커](https://github.com/Lee-Soyeon/Baekjoon/blob/main/%EA%B5%AC%ED%98%84/1316.md)
 
 ## 그래프
 

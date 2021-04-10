@@ -22,6 +22,10 @@
 * [7576번 - 토마토](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/7576.md)
 * [1405번 - 미친 로봇](https://github.com/Lee-Soyeon/Backjoon/blob/main/그래프/1405.md)
 
+## 그리디
+
+* [1464번 - 뒤집기 3](https://github.com/Lee-Soyeon/Backjoon/blob/main/그리디/1464.md)
+
 ## 다익스트라
 
 * [1916번 - 최소비용 구하기](https://github.com/Lee-Soyeon/Backjoon/blob/main/다익스트라/1916.md)

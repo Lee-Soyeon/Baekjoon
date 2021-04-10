@@ -86,5 +86,6 @@
 * [1246번 - 온라인 판매](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1246.md)
 * [1183번 - 약속](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1183.md)
 * [1461번 - 도서관](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1461.md)
+* [1477번 - 휴게소 세우기](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/1477.md)
 
 

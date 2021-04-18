@@ -84,6 +84,8 @@
 ## 자료구조
 
 * [1158번 - 요세푸스 문제](https://github.com/Lee-Soyeon/Backjoon/blob/main/자료구조/1158.md)
+* [2002번 - 추월](https://github.com/Lee-Soyeon/Backjoon/blob/main/자료구조/2002.md)
+* [2075번 - N번째 큰 수](https://github.com/Lee-Soyeon/Backjoon/blob/main/자료구조/2075.md)
 
 ## 정렬
 

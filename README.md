@@ -97,4 +97,4 @@
 
 ## 플로이드-와샬
 
-* [11404번 - 플로이드](https://github.com/Lee-Soyeon/Backjoon/blob/main/정렬/11404.md)
+* [11404번 - 플로이드](https://github.com/Lee-Soyeon/Backjoon/blob/main/플로이드-와샬/11404.md)
